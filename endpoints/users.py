@@ -18,8 +18,10 @@ user_post = api.model('user_post', {
 class UsersClass(Resource):
   @api.expect(user_post)
   def post(self):
-    Operations.SaveUser(api.payload)
-    return { 'code': 200, 'status': 'success', 'data': 1 }
+    if Operations.SaveUser(api.payload):
+      return { 'code': 200, 'status': 'success', 'data': 1 }
+    else:
+      return { 'code': 200, 'status': 'success', 'data': 'User with this email exists' }
 
   def get(self):
     username, password = b64decode(request.headers['Authorization'].split('Bearer ')[1]).decode("utf-8").split(":")

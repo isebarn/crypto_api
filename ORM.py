@@ -72,15 +72,21 @@ class Operations:
       session.commit()
 
   def QueryGames():
-    return [x.json() for x in session.query(Game).all()]
+    return [x.json() for x in session.query(Game).filter_by(Active=True)]
 
   def QueryDeveloperGames(developer_id):
     return [x.json() for x in session.query(Game).filter_by(UserId=int(developer_id))]
 
 
   def SaveUser(data):
-    session.add(User(data))
-    session.commit()
+    if session.query(User.Id).filter_by(Email=data['email']).scalar() == None:
+      session.add(User(data))
+      session.commit()
+      return True
+
+    return False
+
+
 
   def Login(data):
     user = session.query(User).filter_by(Email=data['Username']).first()
