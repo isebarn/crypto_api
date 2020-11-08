@@ -4,6 +4,7 @@ from ORM import Operations
 from Auth import authenticate
 from flask import request
 from base64 import b64decode, b64encode
+from Mail import send_email
 
 api = Namespace("/users", description="Root path", path="/users")
 
@@ -19,6 +20,9 @@ class UsersClass(Resource):
   @api.expect(user_post)
   def post(self):
     if Operations.SaveUser(api.payload):
+      send_email(api.payload['email'],
+                 'Welcome to primeplay.io!',
+                 'This is a notification to let you know that your account was created sucessfully')
       return { 'code': 200, 'status': 'success', 'data': 1 }
     else:
       return { 'code': 200, 'status': 'success', 'data': 'User with this email exists' }
