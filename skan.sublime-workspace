@@ -1,0 +1,1353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter_created_on_range\tabc"
+			],
+			[
+				"proce",
+				"process_name\tabc"
+			],
+			[
+				"proces",
+				"processing_time_lt\tabc"
+			],
+			[
+				"process",
+				"process_name\tabc"
+			],
+			[
+				"coll",
+				"collection\tabc"
+			],
+			[
+				"pro",
+				"processing_time\tabc"
+			],
+			[
+				"appli",
+				"applied_filter\tabc"
+			],
+			[
+				"appl",
+				"applied_filter\tabc"
+			],
+			[
+				"activity",
+				"activity_instances\tabc"
+			],
+			[
+				"collection",
+				"collection_name\tabc"
+			],
+			[
+				"filt",
+				"filter_wrap\tabc"
+			],
+			[
+				"paren",
+				"parent_process_id\tabc"
+			],
+			[
+				"pers",
+				"persona_activity_exclusions\tabc"
+			],
+			[
+				"get_",
+				"get_persona_by_name\tabc"
+			],
+			[
+				"post",
+				"post_success_data\tabc"
+			],
+			[
+				"pos",
+				"post_success_data\tabc"
+			],
+			[
+				"get",
+				"get_document\tabc"
+			],
+			[
+				"partici",
+				"participant_id\tabc"
+			],
+			[
+				"all",
+				"all_participant_ids\tabc"
+			],
+			[
+				"parent",
+				"parent_process_id\t(persona_process.py)"
+			],
+			[
+				"pare",
+				"parent_process_id\tabc"
+			],
+			[
+				"marshal",
+				"marshal_with\tabc"
+			],
+			[
+				"ex",
+				"expect\t(function)"
+			],
+			[
+				"start",
+				"start_activity\tabc"
+			],
+			[
+				"acti",
+				"activity_alias_name\tabc"
+			],
+			[
+				"_",
+				"__pprint\t__pprint"
+			],
+			[
+				"va_",
+				"va_info\tabc"
+			],
+			[
+				"put",
+				"put_process\tabc"
+			],
+			[
+				"persona",
+				"persona_id\tabc"
+			],
+			[
+				"an",
+				"anonymize\t(properties.py)"
+			],
+			[
+				"Date",
+				"DateObject\tabc"
+			],
+			[
+				"enable",
+				"enabled_application\tabc"
+			],
+			[
+				"exp",
+				"expect\tabc"
+			],
+			[
+				"max",
+				"max_threshold\tabc"
+			],
+			[
+				"__",
+				"__pprint\t__pprint"
+			],
+			[
+				"read",
+				"read_file\tabc"
+			],
+			[
+				"applica",
+				"application_name_hash\tabc"
+			],
+			[
+				"event",
+				"event_parser\tabc"
+			],
+			[
+				"even",
+				"events_api\tabc"
+			],
+			[
+				"app",
+				"app_id\tabc"
+			],
+			[
+				"autom",
+				"automation_enabled\t(applications.py)"
+			],
+			[
+				"skan",
+				"skan_enabled\t(applications.py)"
+			],
+			[
+				"__flask",
+				"__flaskendpointget\t__flaskendpointget"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"as",
+				"as_datetime\tabc"
+			],
+			[
+				"total",
+				"total_count\tabc"
+			],
+			[
+				"events",
+				"events_activities\tabc"
+			],
+			[
+				"part",
+				"participant_event_success\tabc"
+			],
+			[
+				"participa",
+				"participant_event\tabc"
+			],
+			[
+				"partic",
+				"participant_event\tabc"
+			],
+			[
+				"OS",
+				"OSVersion\tabc"
+			],
+			[
+				"Part",
+				"Participant\t(participants.py)"
+			],
+			[
+				"format",
+				"format_filename\tabc"
+			],
+			[
+				"non",
+				"non_process_events\tabc"
+			],
+			[
+				"spec",
+				"specifications.event_path\tabc"
+			],
+			[
+				"created",
+				"created_on"
+			],
+			[
+				"parti",
+				"participant_name_hash\tabc"
+			],
+			[
+				"participant_",
+				"participant_name_hash\t(participants.py)"
+			],
+			[
+				"eve",
+				"events_success_wrapper\tabc"
+			],
+			[
+				"image",
+				"image_name\tabc"
+			],
+			[
+				"par",
+				"participant_name_hash\tabc"
+			],
+			[
+				"pa",
+				"participant_name_hash\tabc"
+			],
+			[
+				"va",
+				"va_info\tabc"
+			],
+			[
+				"device",
+				"device_participant_aggregation\tabc"
+			],
+			[
+				"decv",
+				"device_participant_aggregation\tabc"
+			],
+			[
+				"desire",
+				"desired_properties\tabc"
+			],
+			[
+				"requre",
+				"required\tabc"
+			],
+			[
+				"is_",
+				"is_automatic_enabled\tabc"
+			],
+			[
+				"is",
+				"is_automation_enabled\tabc"
+			],
+			[
+				"dev",
+				"device_id\tabc"
+			],
+			[
+				"glob",
+				"global_config\t(global_config.py)"
+			],
+			[
+				"globa",
+				"global_config\tabc"
+			],
+			[
+				"__f",
+				"__flaskendpointget\t__flaskendpointget"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/david/skan/metrics/endpoints/variant_performance_distribution.py",
+			"settings":
+			{
+				"buffer_size": 870,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/Downloads/basic site concept for dev.txt",
+			"settings":
+			{
+				"buffer_size": 3381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "requests.get('http://127.0.0.1:5000/cases/variant_performance_distribution', json={\n  \"god\": \"2020-09-2500:00:00\"\n})\n\n500 INTERNAL SERVER ERROR\n0.006564s, 8847B\nhttp://127.0.0.1:5000/cases/variant_performance_distribution\n\nRequest Headers: {'Connection': 'keep-alive', 'User-Agent': 'python-requests/2.18.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Content-Type': 'application/json', 'Content-Length': '29'}\n\n[ctrl+r] replay request, [ctrl+alt+ ←/→] prev/next request, [ctrl+t] pin/unpin tab, [ctrl+s] save request, [ctrl+e] explore URL\n\nConnection: close\nContent-Type: text/html; charset=utf-8\nDate: Fri, 06 Nov 2020 17:01:30 GMT\nServer: Werkzeug/1.0.1 Python/3.8.5\nX-XSS-Protection: 0\n\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"\n  \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n  <head>\n    <title>KeyError: 'date-time' // Werkzeug Debugger</title>\n    <link rel=\"stylesheet\" href=\"?__debugger__=yes&amp;cmd=resource&amp;f=style.css\"\n        type=\"text/css\">\n    <!-- We need to make sure this has a favicon so that the debugger does\n         not by accident trigger a request to /favicon.ico which might\n         change the application state. -->\n    <link rel=\"shortcut icon\"\n        href=\"?__debugger__=yes&amp;cmd=resource&amp;f=console.png\">\n    <script src=\"?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js\"></script>\n    <script src=\"?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js\"></script>\n    <script type=\"text/javascript\">\n      var TRACEBACK = 140561402126928,\n          CONSOLE_MODE = false,\n          EVALEX = true,\n          EVALEX_TRUSTED = false,\n          SECRET = \"FoB1bnBpmsRUpytnkUnr\";\n    </script>\n  </head>\n  <body style=\"background-color: #fff\">\n    <div class=\"debugger\">\n<h1>KeyError</h1>\n<div class=\"detail\">\n  <p class=\"errormsg\">KeyError: 'date-time'</p>\n</div>\n<h2 class=\"traceback\">Traceback <em>(most recent call last)</em></h2>\n<div class=\"traceback\">\n  \n  <ul><li><div class=\"frame\" id=\"frame-140561402127072\">\n  <h4>File <cite class=\"filename\">\"/home/david/skan/metrics/main.py\"</cite>,\n      line <em class=\"line\">5</em>,\n      in <code class=\"function\">&lt;module&gt;</code></h4>\n  <div class=\"source \"><pre class=\"line current\"><span class=\"ws\"></span>from endpoints import blueprint as api</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\"></span>app = Flask(__name__)</pre>\n<pre class=\"line after\"><span class=\"ws\"></span>CORS(app)</pre>\n<pre class=\"line after\"><span class=\"ws\"></span>app.config[&quot;PROPAGATE_EXCEPTIONS&quot;] = False</pre></div>\n</div>\n\n<li><div class=\"frame\" id=\"frame-140561402127312\">\n  <h4>File <cite class=\"filename\">\"/home/david/skan/metrics/endpoints/__init__.py\"</cite>,\n      line <em class=\"line\">8</em>,\n      in <code class=\"function\">&lt;module&gt;</code></h4>\n  <div class=\"source \"><pre class=\"line before\"><span class=\"ws\"></span>from jsonschema import FormatChecker</pre>\n<pre class=\"line before\"><span class=\"ws\"></span> </pre>\n<pre class=\"line before\"><span class=\"ws\"></span>from .variant_performance_distribution import api as variant_performance_distribution_api</pre>\n<pre class=\"line before\"><span class=\"ws\"></span> </pre>\n<pre class=\"line before\"><span class=\"ws\"></span>blueprint = Blueprint('', __name__)</pre>\n<pre class=\"line current\"><span class=\"ws\"></span>api = Api(blueprint, doc='/doc/', format_checker=FormatChecker(formats=(&quot;date-time&quot;,)))</pre>\n<pre class=\"line after\"><span class=\"ws\"></span>api.add_namespace(variant_performance_distribution_api)</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\"></span>wrap = api.model('wrap', {</pre>\n<pre class=\"line after\"><span class=\"ws\">  </span>&quot;code&quot;: fields.Integer,</pre>\n<pre class=\"line after\"><span class=\"ws\">  </span>&quot;status&quot;: fields.String,</pre></div>\n</div>\n\n<li><div class=\"frame\" id=\"frame-140561402127024\">\n  <h4>File <cite class=\"filename\">\"/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py\"</cite>,\n      line <em class=\"line\">39</em>,\n      in <code class=\"function\">__init__</code></h4>\n  <div class=\"source library\"><pre class=\"line before\"><span class=\"ws\"></span> </pre>\n<pre class=\"line before\"><span class=\"ws\">    </span>def __init__(self, formats=None):</pre>\n<pre class=\"line before\"><span class=\"ws\">        </span>if formats is None:</pre>\n<pre class=\"line before\"><span class=\"ws\">            </span>self.checkers = self.checkers.copy()</pre>\n<pre class=\"line before\"><span class=\"ws\">        </span>else:</pre>\n<pre class=\"line current\"><span class=\"ws\">            </span>self.checkers = dict((k, self.checkers[k]) for k in formats)</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\">    </span>def __repr__(self):</pre>\n<pre class=\"line after\"><span class=\"ws\">        </span>return &quot;&lt;FormatChecker checkers={}&gt;&quot;.format(sorted(self.checkers))</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\">    </span>def checks(self, format, raises=()):</pre></div>\n</div>\n\n<li><div class=\"frame\" id=\"frame-140561402128800\">\n  <h4>File <cite class=\"filename\">\"/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py\"</cite>,\n      line <em class=\"line\">39</em>,\n      in <code class=\"function\">&lt;genexpr&gt;</code></h4>\n  <div class=\"source library\"><pre class=\"line before\"><span class=\"ws\"></span> </pre>\n<pre class=\"line before\"><span class=\"ws\">    </span>def __init__(self, formats=None):</pre>\n<pre class=\"line before\"><span class=\"ws\">        </span>if formats is None:</pre>\n<pre class=\"line before\"><span class=\"ws\">            </span>self.checkers = self.checkers.copy()</pre>\n<pre class=\"line before\"><span class=\"ws\">        </span>else:</pre>\n<pre class=\"line current\"><span class=\"ws\">            </span>self.checkers = dict((k, self.checkers[k]) for k in formats)</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\">    </span>def __repr__(self):</pre>\n<pre class=\"line after\"><span class=\"ws\">        </span>return &quot;&lt;FormatChecker checkers={}&gt;&quot;.format(sorted(self.checkers))</pre>\n<pre class=\"line after\"><span class=\"ws\"></span> </pre>\n<pre class=\"line after\"><span class=\"ws\">    </span>def checks(self, format, raises=()):</pre></div>\n</div>\n</ul>\n  <blockquote>KeyError: 'date-time'</blockquote>\n</div>\n\n<div class=\"plain\">\n  <form action=\"/?__debugger__=yes&amp;cmd=paste\" method=\"post\">\n    <p>\n      <input type=\"hidden\" name=\"language\" value=\"pytb\">\n      This is the Copy/Paste friendly version of the traceback.  <span\n      class=\"pastemessage\">You can also paste this traceback into\n      a <a href=\"https://gist.github.com/\">gist</a>:\n      <input type=\"submit\" value=\"create paste\"></span>\n    </p>\n    <textarea cols=\"50\" rows=\"10\" name=\"code\" readonly>Traceback (most recent call last):\n  File &quot;/home/david/skan/metrics/main.py&quot;, line 5, in &lt;module&gt;\n    from endpoints import blueprint as api\n  File &quot;/home/david/skan/metrics/endpoints/__init__.py&quot;, line 8, in &lt;module&gt;\n    api = Api(blueprint, doc='/doc/', format_checker=FormatChecker(formats=(&quot;date-time&quot;,)))\n  File &quot;/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py&quot;, line 39, in __init__\n    self.checkers = dict((k, self.checkers[k]) for k in formats)\n  File &quot;/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py&quot;, line 39, in &lt;genexpr&gt;\n    self.checkers = dict((k, self.checkers[k]) for k in formats)\nKeyError: 'date-time'</textarea>\n  </form>\n</div>\n<div class=\"explanation\">\n  The debugger caught an exception in your WSGI application.  You can now\n  look at the traceback which led to the error.  <span class=\"nojavascript\">\n  If you enable JavaScript you can also use additional features such as code\n  execution (if the evalex feature is enabled), automatic pasting of the\n  exceptions and much more.</span>\n</div>\n      <div class=\"footer\">\n        Brought to you by <strong class=\"arthur\">DON'T PANIC</strong>, your\n        friendly Werkzeug powered traceback interpreter.\n      </div>\n    </div>\n\n    <div class=\"pin-prompt\">\n      <div class=\"inner\">\n        <h3>Console Locked</h3>\n        <p>\n          The console is locked and needs to be unlocked by entering the PIN.\n          You can find the PIN printed out on the standard output of your\n          shell that runs the server.\n        <form>\n          <p>PIN:\n            <input type=text name=pin size=14>\n            <input type=submit name=btn value=\"Confirm Pin\">\n        </form>\n      </div>\n    </div>\n  </body>\n</html>\n\n<!--\n\nTraceback (most recent call last):\n  File \"/home/david/skan/metrics/main.py\", line 5, in <module>\n    from endpoints import blueprint as api\n  File \"/home/david/skan/metrics/endpoints/__init__.py\", line 8, in <module>\n    api = Api(blueprint, doc='/doc/', format_checker=FormatChecker(formats=(\"date-time\",)))\n  File \"/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py\", line 39, in __init__\n    self.checkers = dict((k, self.checkers[k]) for k in formats)\n  File \"/home/david/skan/metrics/venv/lib/python3.8/site-packages/jsonschema/_format.py\", line 39, in <genexpr>\n    self.checkers = dict((k, self.checkers[k]) for k in formats)\nKeyError: 'date-time'\n\n-->\n",
+			"settings":
+			{
+				"buffer_size": 9549,
+				"line_ending": "Unix",
+				"name": "GET: /cases/variant_performance_…",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/david/skan/metrics/endpoints/__init__.py",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"file diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"addf",
+				"Project: Add Folder"
+			],
+			[
+				"deac",
+				"PyTest: Deactivate for this project"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"pytest",
+				"PyTest: Run: Current file"
+			],
+			[
+				"pytest dea",
+				"PyTest: Deactivate for this project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"run ",
+				"PyTest: Run"
+			],
+			[
+				"dea",
+				"PyTest: Deactivate for this project"
+			],
+			[
+				"acti",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Add directory"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"python",
+				"Build With: Python3"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pyte",
+				"PyTest: Run"
+			],
+			[
+				"ac",
+				"Virtualenv: Activate"
+			],
+			[
+				"make sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"snippet make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"repl powe",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl pyth",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"act",
+				"Virtualenv: Activate"
+			],
+			[
+				"activate",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: New (venv)"
+			],
+			[
+				"activa",
+				"Virtualenv: Activate"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			],
+			[
+				"envir",
+				"Virtualenv: Add directory"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/skan",
+		"/home/david/skan/metrics",
+		"/home/david/skan/metrics/endpoints",
+		"/home/david/skan/metrics/queries",
+		"/home/david/skan/metrics/utils"
+	],
+	"file_history":
+	[
+		"/home/david/skan/metrics/queries/variant_performance_distribution.py",
+		"/home/david/skan/metrics/utils/filters.py",
+		"/home/david/skan/metrics/endpoints/variant_performance_distribution.py",
+		"/home/david/skan/metrics/endpoints/__init__.py",
+		"/home/david/skan/metrics/utils/DbConnection.py",
+		"/home/david/skan/agents/endpoints/agents.py",
+		"/home/david/skan/dashboard/endpoints/dashboard.py",
+		"/home/david/skan/metrics/venv/bin/activate",
+		"/home/david/Downloads/variant_performance_distribution.json",
+		"/home/david/demo.py",
+		"/home/david/skan.txt",
+		"/home/david/skan/metrics/app_constants.py",
+		"/home/david/skan/agents/endpoints/desired_properties.py",
+		"/home/david/Downloads/Participant Metrics (1).json",
+		"/home/david/Downloads/variant_frequency_distribution.json",
+		"/home/david/Downloads/variant_arrival.json",
+		"/home/david/Downloads/case_activity_frequency_distribution.json",
+		"/home/david/Downloads/Case_Activtiy_Performance_Distribution.json",
+		"/home/david/Downloads/case_length_distribution.json",
+		"/home/david/Downloads/case_performance_distribution.json",
+		"/home/david/Downloads/case_distribution_based_on_data_attributes.json",
+		"/home/david/Downloads/Participant Metrics.json",
+		"/home/david/Downloads/case_arrival_handling.json",
+		"/home/david/skan/process_participants/queries/persona_process.py",
+		"/home/david/skan/process_participants/endpoints/persona_processes_api.py",
+		"/home/david/skan/process_participants/commands/persona_participant_process_activities_command.py",
+		"/home/david/skan/process_participants/commands/persona_process.py",
+		"/home/david/skan/process_config/endpoints/properties.py",
+		"/home/david/skan/process_config/queries/properties.py",
+		"/home/david/skan/process_config/commands/properties.py",
+		"/home/david/skan/dashboard/queries/dashboard.py",
+		"/home/david/test2020-10-31-2020-11-02.txt",
+		"/home/david/GETdashboard.txt",
+		"/home/david/skan/dashboard/utils/DbConnection.py",
+		"/home/david/hehe.json",
+		"/home/david/Downloads/process_config_new.md",
+		"/home/david/skan/dashboard/tests/test_dashboard.py",
+		"/home/david/skan/dashboard/tests/conftest.py",
+		"/home/david/skan/applications/commands/applications.py",
+		"/home/david/skan/agents/queries/applications.py",
+		"/home/david/skan/agents/queries/agents.py",
+		"/home/david/skan/dashboard/app_constants.py",
+		"/home/david/skan/agents/app_constants.py",
+		"/home/david/skan/applications/queries/applications.py",
+		"/home/david/skan/applications/endpoints/applications.py",
+		"/home/david/skan/process_config/tests/test_properties.py",
+		"/home/david/skan/process_config/pytest.ini",
+		"/home/david/skan/process_participants/endpoints/__init__.py",
+		"/home/david/skan/process_participants/endpoints/persona_activities_participants_api.py",
+		"/home/david/skan/process_participants/endpoints/persona_participant_activities_api.py",
+		"/home/david/skan/process_participants/endpoints/process_participants_api.py",
+		"/home/david/skan/process_config/utils/DbConnection.py",
+		"/home/david/skan/process_config/app_constants.py",
+		"/home/david/skan/dashboard/tests/test_applications.py",
+		"/home/david/Downloads/process_config_new (1).md",
+		"/home/david/skan/dashboard/pytest.ini",
+		"/home/david/skan/process_participants/tests/test_persona_process.py",
+		"/home/david/skan/agents/utils/DbConnection.py",
+		"/home/david/skan/process_participants/utils/DbConnection.py",
+		"/home/david/skan/process_participants/pytest.ini",
+		"/home/david/skan/agents/commands/system_info.py",
+		"/home/david/skan/process_participants/requirements.txt",
+		"/home/david/skan/agents/endpoints/__init__.py",
+		"/home/david/skan/process_participants/tests/test_process_participants.py",
+		"/home/david/skan/process_participants/tests/conftest.py",
+		"/home/david/skan/process_participants/venv/bin/activate",
+		"/home/david/skan/process_participants/app_constants.py",
+		"/home/david/skan/process_participants/queries/personas.py",
+		"/home/david/skan/participants/queries/participants.py",
+		"/home/david/skan/participants/utils/Timestamp.py",
+		"/home/david/skan/participants/tests/test_participants.py",
+		"/home/david/skan/dashboard/endpoints/__init__.py",
+		"/home/david/skan/dashboard/main.py",
+		"/home/david/skan/dashboard/venv/bin/activate",
+		"/home/david/skan/dashboard/Dockerfile",
+		"/home/david/skan/dashboard/requirements.txt",
+		"/home/david/skan/process_config/endpoints/dashboard.py",
+		"/home/david/skan/process_config/Dockerfile",
+		"/home/david/skan/docker-compose.yml",
+		"/home/david/Platform API",
+		"/home/david/skan/agents/commands/desired_properties.py",
+		"/home/david/skan/agents/tests/test_desired_properties.py",
+		"/home/david/skan/agents/REQUIREMENTS.md",
+		"/home/david/skan/agents/tests/test_system_info.py",
+		"/home/david/skan/agents/tests/test_register.py",
+		"/home/david/skan/agents/tests/test_agents.py",
+		"/home/david/skan/process_config/tests/testdata/properties_process_type_id_invalid.json",
+		"/home/david/skan/agents/tests/test_global_config.py",
+		"/home/david/skan/agents/tests/test_max_threshold.py",
+		"/home/david/skan/agents/tests/test_active.py",
+		"/home/david/skan/agents/tests/conftest.py",
+		"/home/david/Downloads/process_config (1).md",
+		"/home/david/skan/process_config/tests/testdata/properties_success.json",
+		"/home/david/skan/agents/endpoints/system_info.py",
+		"/home/david/skan/agents/endpoints/register.py",
+		"/home/david/skan/agents/endpoints/max_threshold.py",
+		"/home/david/skan/agents/endpoints/global_config.py",
+		"/home/david/skan/agents/endpoints/active.py",
+		"/home/david/skan/agents/commands/register.py",
+		"/home/david/skan/agents/queries/desired_properties.py",
+		"/home/david/skan/agents/utils/DateFormat.py",
+		"/home/david/skan/process_config/venv/bin/activate",
+		"/home/david/skan/agents/pytest.ini",
+		"/home/david/Downloads/basic site concept for dev (4).txt",
+		"/home/david/Downloads/basic site concept for dev (3).txt",
+		"/home/david/skan/agents/endpoints/test.json",
+		"/home/david/skan/agents/queries/global_config.py",
+		"/home/david/skan/agents/queries/max_threshold.py",
+		"/home/david/Downloads/process_config.md",
+		"/home/david/skan/process_config/endpoints/__init__.py",
+		"/home/david/skan/agents/main.py",
+		"/home/david/skan/process_config/main.py",
+		"/home/david/skan/participants/endpoints/participants.py",
+		"/home/david/skan/process_applications/queries/personas_applications.py",
+		"/home/david/skan/participants/tests/test_data/event_1.json",
+		"/home/david/nearbyhomes.json",
+		"/home/david/taxhistory.json",
+		"/home/david/skan/participants/endpoints/events.py",
+		"/home/david/skan/participants/utils/DbConnection.py",
+		"/home/david/skan/participants/tests/test_events.py",
+		"/home/david/skan/participants/tests/conftest.py",
+		"/home/david/taager/endpoints/order.py",
+		"/home/david/taager/endpoints/product.py",
+		"/home/david/taager/endpoints/province.py",
+		"/home/david/skan/applications/endpoints/skan_enabled.py",
+		"/home/david/skan/applications/endpoints/__init__.py",
+		"/home/david/skan/applications/pytest.ini",
+		"/home/david/skan/applications/app_constants.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"-*/venv/*, -*/.git/*",
+			"-*/.venv/*, -*/.git/*",
+			"-*/.venv/*, -.git",
+			"-*/.venv/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fields.Raw",
+			"/",
+			"datetime_from_iso8601",
+			"max_threshold",
+			"$push",
+			"Get case ids count from the Cases which is started or closed during interval:",
+			"application_name_hash: { $in:[\"Lorem\"]},",
+			"participant_name_hash:{ $in: [\"Lorem\"]},",
+			"gte: new Timestamp(1460127718, 1),",
+			"events.event_time\": {",
+			"process_id:{$in:[ObjectId(\"507f1f77bcf86cd799439011\")]},",
+			"case_variant_id: {$in:[ObjectId(\"507f1f77bcf86cd799439011\")]},",
+			"persona_id: {$in:[ObjectId(\"507f1f77bcf86cd799439011\")]},",
+			"application_name_hash: {$in:[\"Lorem\"]},",
+			"participant_name_hash: {$in:[\"Lorem\"]},",
+			"db.activity_instances.distinct(\"case_id\", {",
+			"ONE ENDPOINT",
+			"process_id:{ $in:[\"Lorem\"]},",
+			"data_attributes.name\":{ $in: [\"Lorem\", \"l2\"]},",
+			"case_variant_id:{ $in:[ObjectId(\"507f1f77bcf86cd799439011\")]},",
+			"status:{ $in: [\"Lorem\"]},",
+			"persona_ids:{ $in: [ObjectId(\"507f1f77bcf86cd799439011\")]},",
+			"post_process",
+			"Raw",
+			"fields",
+			"activity_alias_names",
+			"processing_time_gt",
+			"aggregation",
+			"filter",
+			"get_participants",
+			"$gt",
+			"filter_wrap",
+			"wrapper_do_twice",
+			"**kwargs",
+			"*args, ",
+			"**kwargs",
+			"personas",
+			"return",
+			"parent_process_id",
+			"postpatchdelete_process",
+			"put_process",
+			"process_name",
+			"process_type_id",
+			"patch_process",
+			",",
+			":",
+			"result",
+			"total_cases",
+			"\"name\":",
+			"guess",
+			"      \"name\": \"",
+			"\"name\": ",
+			"guess",
+			"      \"name\": \"",
+			"\"name\": ",
+			"utils",
+			"process-name-70",
+			"$IN",
+			"\"personas\": {",
+			"#",
+			"ignore",
+			"if any(get_persona_by_name(api.payload['process_name'])):",
+			"    if any(get_persona_by_name(api.payload['process_name'])): \n      raise Exception('Persona with the same name exists')  ",
+			"ignore",
+			"String",
+			":",
+			"ignore",
+			"client.put",
+			"properties.put",
+			"put_properties",
+			"validate_put",
+			"put",
+			"ignore",
+			"post_process",
+			"GET_POST_PERSONA_PROCESS",
+			"ignore",
+			"#",
+			"get_collection",
+			"(",
+			"====",
+			"====\"",
+			"5f9c0ba535fc9a2a2b91a4df",
+			"participant-id-0",
+			"query_dashboard",
+			"_applications_",
+			"query_applications_success",
+			"applications",
+			"def post(",
+			"postpatch_response",
+			"delete",
+			"post",
+			"update_one",
+			"post_process_response",
+			"data",
+			"system_info",
+			"os.version",
+			"os.",
+			"os",
+			"String",
+			"mongoengine",
+			"post_process_response",
+			"post_process_psot",
+			"%20",
+			"/",
+			"persona_processes_response",
+			"query_persona_processes",
+			"start",
+			"start_activity",
+			"_object",
+			"persona_processes_response",
+			", ",
+			"persona_id",
+			"persona_processes",
+			"persona_process",
+			"processes_response",
+			"failed",
+			"attribute",
+			"min_event",
+			"Schema1Mapping",
+			"0",
+			"//",
+			"print",
+			"DateTime",
+			"Integer",
+			",",
+			"print",
+			"success",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/david/skan/metrics/endpoints/variant_performance_distribution.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								870
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/david/Downloads/basic site concept for dev.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"requester.binding_info":
+							[
+								null,
+								"get('http://127.0.0.1:5000/')"
+							],
+							"requester.env_string": "",
+							"requester.file": null,
+							"requester.history_view": false,
+							"requester.name": "GET: /cases/variant_performance_distribution",
+							"requester.request_method": "GET",
+							"requester.request_url": "http://127.0.0.1:5000/cases/variant_performance_distribution",
+							"requester.response_view": true,
+							"requester.tabname": null,
+							"syntax": "Packages/Requester/syntax/requester-response.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/david/skan/metrics/endpoints/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "skan.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"properties_process_type_id_invalid",
+				"tests/testdata/properties_process_type_id_invalid.json"
+			],
+			[
+				"queries/max",
+				"agents/queries/max_threshold.py"
+			],
+			[
+				"app",
+				"agents/app_constants.py"
+			],
+			[
+				"events",
+				"participants/endpoints/events.py"
+			],
+			[
+				"queries/agents",
+				"agents/queries/agents.py"
+			],
+			[
+				"dbc",
+				"agents/utils/DbConnection.py"
+			],
+			[
+				"DbCo",
+				"agents/utils/DbConnection.py"
+			],
+			[
+				"agents",
+				"agents/queries/agents.py"
+			],
+			[
+				"agents.py",
+				"agents/endpoints/agents.py"
+			],
+			[
+				"app_c",
+				"app_constants.py"
+			],
+			[
+				"queries/app",
+				"queries/applications.py"
+			],
+			[
+				"Db",
+				"utils/DbConnection.py"
+			],
+			[
+				"test_appl",
+				"tests/test_applications.py"
+			],
+			[
+				"applica",
+				"queries/applications.py"
+			],
+			[
+				"appli",
+				"queries/applications.py"
+			],
+			[
+				"active",
+				"endpoints/active.py"
+			],
+			[
+				"pytest",
+				"pytest.ini"
+			],
+			[
+				"test_active",
+				"tests/test_active_va.py"
+			],
+			[
+				"test_max",
+				"tests/test_max_threshold.py"
+			],
+			[
+				"test_applica",
+				"tests/test_applications.py"
+			],
+			[
+				"test_agents",
+				"tests/test_agents.py"
+			],
+			[
+				"test_va",
+				"tests/test_va.py"
+			],
+			[
+				"__init",
+				"endpoints/__init__.py"
+			],
+			[
+				"queries/va",
+				"queries/va.py"
+			],
+			[
+				"endpoi",
+				"endpoints/va.py"
+			],
+			[
+				"active_va",
+				"endpoints/active_va.py"
+			],
+			[
+				"queries",
+				"queries/active_va.py"
+			],
+			[
+				"queries/parti",
+				"queries/participants.py"
+			],
+			[
+				"participan",
+				"endpoints/participants.py"
+			],
+			[
+				"endpoints/__",
+				"endpoints/__init__.py"
+			],
+			[
+				"acti",
+				"venv/bin/activate"
+			],
+			[
+				"endpoints/va",
+				"endpoints/va.py"
+			],
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"querie",
+				"queries/active_va.py"
+			],
+			[
+				"db",
+				"utils/DbConnection.py"
+			],
+			[
+				"test_",
+				"tests/test_participants.py"
+			],
+			[
+				"partici",
+				"endpoints/participants.py"
+			],
+			[
+				"va.py",
+				"endpoints/va.py"
+			],
+			[
+				"desired",
+				"endpoints/desired_properties.py"
+			],
+			[
+				"participants",
+				"queries/participants.py"
+			],
+			[
+				"endpoints/parti",
+				"endpoints/participants.py"
+			],
+			[
+				"parti",
+				"endpoints/participants.py"
+			],
+			[
+				"test_par",
+				"tests/test_participants.py"
+			],
+			[
+				"test",
+				"tests/test_register.py"
+			],
+			[
+				"endpoints",
+				"endpoints/system_info.py"
+			],
+			[
+				"main.py",
+				"main.py"
+			],
+			[
+				"utils/",
+				"utils/DbConnection.py"
+			],
+			[
+				"dbco",
+				"utils/DbConnection.py"
+			],
+			[
+				"queries/",
+				"queries/active_va.py"
+			],
+			[
+				"app_",
+				"agents/app_constants.py"
+			],
+			[
+				"command/des",
+				"agents/commands/desired_properties.py"
+			],
+			[
+				"test_desi",
+				"agents/tests/test_desired_properties.py"
+			],
+			[
+				"system",
+				"agents/endpoints/system_info.py"
+			],
+			[
+				"desired_prop",
+				"agents/endpoints/desired_properties.py"
+			],
+			[
+				"test_desired",
+				"agents/tests/test_desired_properties.py"
+			],
+			[
+				"endpoints/des",
+				"agents/endpoints/desired_properties.py"
+			],
+			[
+				"endpoints/va.",
+				"agents/endpoints/va.py"
+			],
+			[
+				"commands/register",
+				"agents/commands/register.py"
+			],
+			[
+				"pytest.ini",
+				"agents/pytest.ini"
+			],
+			[
+				"command/register",
+				"agents/commands/register.py"
+			],
+			[
+				"test_reg",
+				"agents/tests/test_register.py"
+			],
+			[
+				"test_desire",
+				"agents/tests/test_desired_properties.py"
+			],
+			[
+				"register",
+				"agents/endpoints/register.py"
+			],
+			[
+				"app_con",
+				"agents/app_constants.py"
+			],
+			[
+				"command",
+				"agents/commands/system_info.py"
+			],
+			[
+				"COMMANDS",
+				"agents/commands/system_info.py"
+			],
+			[
+				"QUERIES/",
+				"agents/queries/global_config.py"
+			],
+			[
+				"commands/",
+				"agents/commands/system_info.py"
+			],
+			[
+				"activate",
+				"agents/venv/bin/activate"
+			],
+			[
+				"pyt",
+				"agents/pytest.ini"
+			],
+			[
+				"",
+				"Sow_task/task/va_api portal.md"
+			],
+			[
+				"actiav",
+				"venv/bin/activate"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/henry/henry.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

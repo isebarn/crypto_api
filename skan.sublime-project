@@ -1,0 +1,20 @@
+{
+	"env":
+	{
+		"GOD": "hehe"
+	},
+	"folders":
+	[
+		{
+			"path": "/home/david/skan"
+		}
+	],
+	"settings":
+	{
+		"PyTest":
+		{
+			"mode": "manual"
+		},
+		"python_interpreter": "/home/david/skan/agents/venv/bin/python"
+	}
+}
